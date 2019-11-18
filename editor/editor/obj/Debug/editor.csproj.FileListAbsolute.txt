@@ -1,0 +1,28 @@
+E:\12C\editor\editor\bin\Debug\editor.exe.config
+E:\12C\editor\editor\obj\Debug\editor.csprojResolveAssemblyReference.cache
+E:\12C\editor\editor\obj\Debug\editor.Properties.Resources.resources
+E:\12C\editor\editor\obj\Debug\editor.csproj.GenerateResource.Cache
+E:\12C\editor\editor\bin\Debug\editor.exe
+E:\12C\editor\editor\bin\Debug\editor.pdb
+E:\12C\editor\editor\obj\Debug\editor.Form1.resources
+E:\12C\editor\editor\obj\Debug\editor.exe
+E:\12C\editor\editor\obj\Debug\editor.pdb
+F:\editor\editor\bin\Debug\editor.exe.config
+F:\editor\editor\obj\Debug\editor.exe
+F:\editor\editor\obj\Debug\editor.pdb
+F:\editor\editor\bin\Debug\editor.exe
+F:\editor\editor\bin\Debug\editor.pdb
+F:\editor\editor\obj\Debug\editor.csprojResolveAssemblyReference.cache
+F:\editor\editor\obj\Debug\editor.Form1.resources
+F:\editor\editor\obj\Debug\editor.Properties.Resources.resources
+F:\editor\editor\obj\Debug\editor.csproj.GenerateResource.Cache
+D:\Info\Visual Studio\editor\editor\bin\Debug\editor.exe.config
+D:\Info\Visual Studio\editor\editor\bin\Debug\editor.exe
+D:\Info\Visual Studio\editor\editor\bin\Debug\editor.pdb
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.Form1.resources
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.Properties.Resources.resources
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.csproj.GenerateResource.Cache
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.csproj.CoreCompileInputs.cache
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.exe
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.pdb
+D:\Info\Visual Studio\editor\editor\obj\Debug\editor.csprojAssemblyReference.cache
